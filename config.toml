@@ -22,7 +22,7 @@ weight = 1
 title = "Wize AI"
 
 [languages.en.hero]
-  img = "/images/init_home.png"
+  img = "/images/tele2lt_home.png"
   title = ""
   description = ""
   
