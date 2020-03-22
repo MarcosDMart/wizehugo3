@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://keen-nightingale-f8ae82.netlify.com/"
 languageCode = "en-EN"
-title = "Wize AI Demo"
+title = "viLTė"
 
 defaultContentLanguage = "en"
 
@@ -15,20 +15,20 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
 weight = 0
-title  = "Wize AI"
+title  = "viLTė"
 
 [languages.et]
 weight = 1
-title = "Wize AI"
+title = "viLTė"
 
 [languages.en.hero]
-  img = "/images/vlnairport_home.png"
+  img = "/images/vilte.png"
   title = ""
   description = ""
   
 # Hero section estonian (from here on is for icon theme)
 [languages.et.hero]
-  img = "/images/geometric-bg-overlay-wizeblue.jpg"
+  img = "/images/vilte.png"
   title = "Virtual assistant of the future. Today"
   description = ""
 
