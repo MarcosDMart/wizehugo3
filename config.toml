@@ -15,11 +15,11 @@ defaultContentLanguage = "en"
 [languages]
 [languages.en]
 weight = 0
-title  = "viLTė"
+title  = "VILTE"
 
 [languages.et]
 weight = 1
-title = "viLTė"
+title = "VILTE"
 
 [languages.en.hero]
   img = "/images/vilte.png"
